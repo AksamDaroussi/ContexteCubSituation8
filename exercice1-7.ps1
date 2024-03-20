@@ -1,11 +1,11 @@
 ﻿#=============================================================================
-#exercice1-4.ps1
+#exercice1-7.ps1
 #Daroussi Aksam
 #13/03/2024
 
-#Version 4
+#Version 6
   
-#Exercice 1-5
+#Exercice 1-7
 
 #Lister les services démarrés du système (Nom, Description et Status) et exporter le résultat dans un fichier "service.csv"
 
